@@ -16,6 +16,17 @@
          url("https://www.i-neighbour.com/templates/layout/code/fonts/bc9fa02b4227255be2387a7e19a3e09b.svg#Akkurat-Light") format("svg");
 }
 
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}
+    body{font-size:100%;line-height:1}
+    .grid{margin:0  auto;max-width:1140px;width:100%;}
+    .grid2{margin:0 auto;max-width:100%;width:100% }
+    .grid3{margin:0 auto;max-width:90%;width:100% }
+    .grid4{margin:0 auto;max-width:1280px;width:100% }
+    .grid5{margin:0 auto;max-width:800px;width:100% }
+    .gridnews{margin:0 auto;max-width:960px;width:100% }
+    .gridfeature{margin:0 auto;max-width:620px;width:100% }
+    .gridfeature2{margin:0 auto;max-width:700px;width:100% }
+    .grid480{margin:0 auto;max-width:480px;width:100% }
 
 /* barlow-semi-condensed-regular - latin */
 @font-face {
